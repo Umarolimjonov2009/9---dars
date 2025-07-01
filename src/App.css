@@ -1,0 +1,17 @@
+button{
+    padding: 13px 40px;
+    font-size: 18px;
+    color: white;
+    border: 1px solid black;
+    border-radius: 30px;
+    margin: 30px;
+}
+button:nth-child(1){
+    background-color: red;
+}
+button:nth-child(2){
+    background-color: blue;
+}
+button:nth-child(3){
+    background-color: green;
+}
